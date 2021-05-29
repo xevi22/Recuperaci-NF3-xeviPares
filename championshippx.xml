@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Els atributs mostrats són obligatoris-->
-<championshipsCN>
-    <championshipCN year="2002" points="564">Repsol Honda Team</championshipCN>
-    <championshipCN year="2003" points="487">Repsol Honda Team</championshipCN>
-    <championshipCN year="2004" points="421">Gauloises Yamaha Team</championshipCN>
-    <championshipCN year="2005" points="546">Gauloises Yamaha Team</championshipCN>
-    <championshipCN year="2006" points="467">Repsol Honda Team</championshipCN>
-    <championshipCN year="2007" points="533">Ducati Marlboro Team</championshipCN>
-    <championshipCN year="2008" points="563">Fiat Yamaha Team</championshipCN>
-    <championshipCN year="2009" points="567">Fiat Yamaha Team</championshipCN>
-    <championshipCN year="2010" points="617">Fiat Yamaha Team</championshipCN>
-    <championshipCN year="2011" points="682">Repsol Honda Team</championshipCN>
-    <championshipCN year="2012" points="603">Yamaha Factory Racing</championshipCN>
-    <championshipCN year="2013" points="634">Repsol Honda Team</championshipCN>
-    <championshipCN year="2014" points="608">Repsol Honda Team</championshipCN>
-    <championshipCN year="2015" points="655">Yamaha Factory Racing</championshipCN>
-    <championshipCN year="2016" points="482">Yamaha Factory Racing</championshipCN>
-    <championshipCN year="2017" points="508">Repsol Honda Team</championshipCN>
-    <championshipCN year="2018" points="438">Repsol Honda Team</championshipCN>
-    <championshipCN year="2019" points="458">Repsol Honda Team</championshipCN>
-    <championshipCN year="2020" points="487">Team SUZUKI ECSTAR</championshipCN>
-  </championshipsCN>
+<xp:champinoshippx xmlns:xp="http://www.xevipares.edu/RecuNF3"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xevipares.edu/RecuNF3 Dades.xsd">
+    <xp:champinoshippx year="2002" points="564">Repsol Honda Team</xp:champinoshippx>
+    <xp:champinoshippx year="2003" points="487">Repsol Honda Team</xp:champinoshippx>
+    <xp:champinoshippx year="2004" points="421">Gauloises Yamaha Team</xp:champinoshippx>
+    <xp:champinoshippx year="2005" points="546">Gauloises Yamaha Team</xp:champinoshippx>
+    <xp:champinoshippx year="2006" points="467">Repsol Honda Team</xp:champinoshippx>
+    <xp:champinoshippx year="2007" points="533">Ducati Marlboro Team</xp:champinoshippx>
+    <xp:champinoshippx year="2008" points="563">Fiat Yamaha Team</xp:champinoshippx>
+    <xp:champinoshippx year="2009" points="567">Fiat Yamaha Team</xp:champinoshippx>
+    <xp:champinoshippx year="2010" points="617">Fiat Yamaha Team</xp:champinoshippx>
+    <xp:champinoshippx year="2011" points="682">Repsol Honda Team</xp:champinoshippx>
+    <xp:champinoshippx year="2012" points="603">Yamaha Factory Racing</xp:champinoshippx>
+    <xp:champinoshippx year="2013" points="634">Repsol Honda Team</xp:champinoshippx>
+    <xp:champinoshippx year="2014" points="608">Repsol Honda Team</xp:champinoshippx>
+    <xp:champinoshippx year="2015" points="655">Yamaha Factory Racing</xp:champinoshippx>
+    <xp:champinoshippx year="2016" points="482">Yamaha Factory Racing</xp:champinoshippx>
+    <xp:champinoshippx year="2017" points="508">Repsol Honda Team</xp:champinoshippx>
+    <xp:champinoshippx year="2018" points="438">Repsol Honda Team</xp:champinoshippx>
+    <xp:champinoshippx year="2019" points="458">Repsol Honda Team</xp:champinoshippx>
+    <xp:champinoshippx year="2020" points="487">Team SUZUKI ECSTAR</xp:champinoshippx>
+  </xp:champinoshippx>
