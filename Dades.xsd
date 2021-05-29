@@ -41,8 +41,10 @@ elementFormDefault="qualified">
   <!-- Tipus de dada simple de tipus admet valors
  numèrics enters no negatius. Cap equip podrà
  aconseguir més de 1000 punts en el mundial--> 
-<xs:simpleType name="pointCN">
-  
+<xs:simpleType name="pointPX">
+  <xs:restriction base="xs:nonNegativeInteger">
+    <xs:maxInclusive value="1000"/>
+  </xs:restriction>
 </xs:simpleType>
 
 </xs:schema>
