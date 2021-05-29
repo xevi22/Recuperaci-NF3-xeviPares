@@ -4,11 +4,11 @@ xmlns:xp="http://www.xevipares.edu/RecuNF3"
 targetNamespace="http://www.xevipares.edu/RecuNF3"
 elementFormDefault="qualified">
 
-<xs:complexType name="championshipDescCN">
+<xs:complexType name="championshipDescPX">
   <xs:simpleContent>
-    <xs:extension base="teamCN">
-      <xs:attribute name="XXX" type="yearCN"/>
-      <xs:attribute name="YYY" type="pointCN"/>
+    <xs:extension base="teamPX">
+      <xs:attribute name="XXX" type="yearPX"/>
+      <xs:attribute name="YYY" type="pointPX"/>
     </xs:extension>
   </xs:simpleContent>
 </xs:complexType>
@@ -18,7 +18,7 @@ elementFormDefault="qualified">
   'Ducati Marlboro Team', 'Fiat Yamaha Team',
   'Yamaha Factory Racing', 'Repsol Honda Team',
   'Team SUZUKI ECSTAR'-->
-<xs:simpleType name="teamCN">
+<xs:simpleType name="teamPX">
   <xs:restriction base="xs:string">
     <xs:enumeration value="Gauloises Yamaha Team"/>
     <xs:enumeration value="Ducati Marlboro Team"/>
