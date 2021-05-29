@@ -46,4 +46,13 @@ elementFormDefault="qualified">
     <xs:maxInclusive value="1000"/>
   </xs:restriction>
 </xs:simpleType>
+
+<xs:element name="champinoshippx" type="xp:champinoshippx"/>
+
+  <xs:complexType name="champinoshippx"> 
+    <xs:sequence >
+      <xs:element name="championshipDescPX" type="xp:championshipDescPX"/>
+    </xs:sequence>
+  </xs:complexType>
+
 </xs:schema>
