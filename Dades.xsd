@@ -6,13 +6,13 @@ elementFormDefault="qualified">
 
 <xs:complexType name="championshipDescPX">
   <xs:simpleContent>
-    <xs:extension base="teamPX">
-      <xs:attribute name="XXX" type="yearPX"/>
-      <xs:attribute name="YYY" type="pointPX"/>
+    <xs:extension base="xp:teamPX">
+      <xs:attribute name="year" type="xp:yearPX"/>
+      <xs:attribute name="points" type="xp:pointPX"/>
     </xs:extension>
   </xs:simpleContent>
 </xs:complexType>
- 
+
 <!-- Tipus de dada simple de tipus text que
   només admet els valors 'Gauloises Yamaha Team',
   'Ducati Marlboro Team', 'Fiat Yamaha Team',
@@ -46,5 +46,4 @@ elementFormDefault="qualified">
     <xs:maxInclusive value="1000"/>
   </xs:restriction>
 </xs:simpleType>
-
 </xs:schema>
