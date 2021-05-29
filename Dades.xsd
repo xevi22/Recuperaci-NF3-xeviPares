@@ -51,7 +51,7 @@ elementFormDefault="qualified">
 
   <xs:complexType name="champinoshippx"> 
     <xs:sequence >
-      <xs:element name="championshipDescPX" type="xp:championshipDescPX"/>
+      <xs:element name="champinoshippx" type="xp:championshipDescPX"/>
     </xs:sequence>
   </xs:complexType>
 
